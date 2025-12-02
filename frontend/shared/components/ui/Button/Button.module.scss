@@ -1,0 +1,31 @@
+.buttonContainer {
+  position: relative;
+}
+
+.button_start {
+  text-align: start;
+}
+
+.button_center {
+  text-align: center;
+}
+
+.button_end {
+  text-align: end;
+}
+
+.buttonContainer button {
+  width: 160px;
+  height: 48px;
+  background: rgb(217, 227, 210);
+  color: rgb(43, 41, 50);
+  cursor: pointer;
+  font-size: 24px;
+  border: none;
+  border-radius: 8px;
+  font-family: inherit;
+}
+
+.buttonContainer button:hover {
+  background: rgb(170, 221, 139);
+}

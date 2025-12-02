@@ -1,0 +1,12 @@
+body {
+  background: black;
+  color: white;
+  font-family: 'OpenSans-Regular', sans-serif;
+}
+
+@font-face {
+  font-family: 'OpenSans-Regular';
+  src: url('../../frontend/styles/fonts/Open_Sans/static/OpenSans-Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
